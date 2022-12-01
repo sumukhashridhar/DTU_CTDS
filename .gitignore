@@ -1,6 +1,7 @@
 # data files
 data/
-
+tfidf.pickle
+km.pickle
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
